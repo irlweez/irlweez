@@ -1,4 +1,24 @@
 <h1 align="center">Hi 👋, I'm weez</h1>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ortalanmış Görsel</title>
+  <style>
+    /* Sayfa tamamını kaplayan ve ortalayan bir container */
+    body, html {
+      height: 100%;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #f0f0f0;
+    }
+    .center {
+      text-align: center;
+    }
+  </style>
 </head>
 <body>
 
@@ -10,6 +30,7 @@
 
 </body>
 </html>
+
 <hr>
 <h3 align="center">I love meet with new people, exchanging ideas and spreading knowledge and positivity. I do also use social media frequently like streaming on twitch or kick and also posting videos on youtube.</h3>
 
