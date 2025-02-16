@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm weez</h1>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=500&lines=Graphic+Designer;Game+Developer;Always+learning+new+things" align="center"> alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=100&height=10&lines=Graphic+Designer;Game+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
 
 <hr>
 <h3 align="center">I love meet with new people, exchanging ideas and spreading knowledge and positivity. I do also use social media frequently like streaming on twitch or kick and also posting videos on youtube.</h3>
